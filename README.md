@@ -1,18 +1,16 @@
 # lab-powershell
 
-## Travail à faire 
+## Introduction
 
-- How to open Powershell Console Window from Powershell
-  - https://stackoverflow.com/questions/15667322/how-to-open-powershell-console-window-from-powershell
 
-## Commandes 
+## Backlog
 
-```bash
-start .
-```
-  
-## How to open Powershell Console Window from Powershell
+- [backlog](./backlog/backlog.md)
+- [variable](./backlog/variable.md)
+- [entre-sortie](./backlog/entre-sortie.md)
+- [condition](./backlog/condition.md)
+- [boucle](./backlog/boucle.md)
+- [fichiers-dossiers](./backlog/fichiers-dossiers.md)
+- [application](./backlog/application.md)
+- [Fichier-readme](./backlog/fichier-readme.md)
 
-```bash
-start powershell
-```
