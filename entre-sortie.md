@@ -15,8 +15,9 @@ Expliquer les commandes suivants
 
 
 ```bash
-# issue : Problème d'affichage des caractère en français sur la console
-## TODO : Il ne fonctionne pas
+# Encoding utf8
+$PSDefaultParameterValues['Out-File:Encoding'] = 'utf8'
 $PSDefaultParameterValues['*:Encoding'] = 'utf8'
-
+$prev = [Console]::OutputEncoding
+[Console]::OutputEncoding = [System.Text.UTF8Encoding]::new()
 ```
