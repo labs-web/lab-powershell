@@ -10,6 +10,8 @@
 - [entre-sortie](./backlog/entre-sortie.md)
 - [condition](./backlog/condition.md)
 - [boucle](./backlog/boucle.md)
+- array
+- string
 - [fichiers](./backlog/fichiers.md)
 - [dossiers](./backlog/dossiers.md)
 - [application](./backlog/application.md)

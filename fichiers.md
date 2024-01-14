@@ -3,15 +3,22 @@
 
 ## new-item
 
-```
+```shell
 new-item $work_space_file_name
 ```
 
 ## Set-Content
 
-```
+```shell
 Set-Content $work_space_file_name '{"folders": [{"path": "."}],"settings": {}}'
 ```
+
+## Rename-Item
+
+```shell
+Rename-Item -Path C:\Example\oldname.txt -NewName C:\Example\newname.txt
+```
+
 
 ## copy-Item 
 

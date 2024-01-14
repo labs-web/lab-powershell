@@ -13,8 +13,10 @@ Expliquer les commandes suivants
 
 ## Encoding
 
+
 ```bash
 # issue : Problème d'affichage des caractère en français sur la console
+## TODO : Il ne fonctionne pas
 $PSDefaultParameterValues['*:Encoding'] = 'utf8'
 
 ```

@@ -37,8 +37,17 @@ if (-note(Test-Path $folderPath)) {
 
 ## Path 
 
+```
+$lab_web_path = Get-Location
+
+Split-Path -Path $MyInvocation.MyCommand.Path -Parent
+```
+
+
 - Trouver le chemin du script en cours d'exécution
 
 ```shell
 $labs_web_path = $PSScriptRoot + "/../../"
+
+
 ```
