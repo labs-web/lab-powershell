@@ -17,3 +17,5 @@
 - [application](./backlog/application.md)
 - [Fichier-readme](./backlog/fichier-readme.md)
 
+## Références 
+- [Documentation de PowerShell](https://learn.microsoft.com/fr-fr/powershell/?view=powershell-7.4)
