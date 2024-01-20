@@ -4,8 +4,8 @@
 # C://nom-organisation/nom-lab
 
 function get_org_name {
-    $current_script_path = $PSScriptRoot
-    return "org_nae"
+    $current_script_path = $PSScriptRoot.Split('\')
+    return $current_script_path[1] 
 }
 
 
