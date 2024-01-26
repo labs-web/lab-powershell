@@ -16,7 +16,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 2 # inclure l'history de deux commit
-      - name: run script-create-issues.ps1
+          submodules: true
+      - name: run update-issues-from-backlog.ps1.ps1
         shell: pwsh
         run: ./scripts/issues/update-issues-from-backlog.ps1
         env:
