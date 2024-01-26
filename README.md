@@ -1,4 +1,4 @@
-﻿# Lab Powershell 
+# Lab Powershell 
 
 - Référence :  lab-powershell 
 
@@ -8,13 +8,21 @@ Une autoformation pratique sur PowerSehll
 
 Le backlog est une liste ordonées des tâches 
 
-- [chapitre](./Backlog/chapitre) 
-- [exposé](./Backlog/exposé) 
-- [feature](./Backlog/feature) 
-- [sous-tâche](./Backlog/sous-tâche) 
+- **chapitre** 
+  - [3.boucle.3.md](./Backlog/chapitre/3.boucle.3.md) 
+  - [4.condition.4.md](./Backlog/chapitre/4.condition.4.md) 
+  - [5.dossiers.5.md](./Backlog/chapitre/5.dossiers.5.md) 
+  - [6.entre-sortie.6.md](./Backlog/chapitre/6.entre-sortie.6.md) 
+  - [7.fichiers.7.md](./Backlog/chapitre/7.fichiers.7.md) 
+  - [8.variable.8.md](./Backlog/chapitre/8.variable.8.md) 
+- **exposé** 
+  - [1.powershell.9.md](./Backlog/exposé/1.powershell.9.md) 
+- **feature** 
+  - [1.application.1.md](./Backlog/feature/1.application.1.md) 
+  - [2.backlog.2.md](./Backlog/feature/2.backlog.2.md) 
 ## Livrables 
 
-Introduction au Livrables 
+ 
 
 - /Backlog 
   - Le backlog du lab 
