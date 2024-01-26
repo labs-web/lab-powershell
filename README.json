@@ -1,8 +1,8 @@
 {
     "Introduction":{
-        "Titre" :"Lab Github Actions",
-        "Reference":"lab-github-actions",
-        "Description" : "Une autoformation pratique sur la réalisation des github actions "
+        "Titre" :"Lab Powershell",
+        "Reference":"lab-powershell",
+        "Description" : "Une autoformation pratique sur PowerSehll "
     },
     "Backlog":{
         "Titre" : "Backlog",
@@ -20,16 +20,7 @@
             {
                 "Titre":"/docs",
                 "Description":"Documentation"
-            },
-            {
-                "Titre":"/github_actions",
-                "Description":""
-            },
-            {
-                "Titre":"/.github/workflows",
-                "Description":""
             }
-          
         ]
     },   
     "References" :
@@ -38,8 +29,8 @@
         "Introduction":"Introduction au Références",
         "References": [
             {
-                "Titre":"Marketplace : Actions",
-                "Lien":"https://github.com/marketplace?category=project-management&query=label&type=actions"
+                "Titre":"Autoformation Powershell",
+                "Lien":"#"
             }
            
         ]
