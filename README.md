@@ -1,23 +1,37 @@
-# lab-powershell
+﻿# Lab Powershell 
 
-## Introduction
+- Référence :  lab-powershell 
 
+Une autoformation pratique sur PowerSehll  
 
-## Backlog
+## Backlog 
 
-- [backlog](./backlog/backlog.md)
-- [variable](./backlog/variable.md)
-- [entre-sortie](./backlog/entre-sortie.md)
-- [condition](./backlog/condition.md)
-- [boucle](./backlog/boucle.md)
-- array
-- string
-- [fichiers](./backlog/fichiers.md)
-- [dossiers](./backlog/dossiers.md)
-- [application](./backlog/application.md)
-- [Fichier-readme](./backlog/fichier-readme.md)
+Le backlog est une liste ordonées des tâches 
 
+- **chapitre** 
+  - [3.boucle.3.md](./Backlog/3.boucle.3.md) 
+  - [4.condition.md](./Backlog/4.condition.md) 
+  - [5.dossiers.md](./Backlog/5.dossiers.md) 
+  - [6.entre-sortie.md](./Backlog/6.entre-sortie.md) 
+  - [7.fichiers.md](./Backlog/7.fichiers.md) 
+  - [8.variable.md](./Backlog/8.variable.md) 
+- **exposé** 
+  - [1.powershell.9.md](./Backlog/1.powershell.9.md) 
+- **feature** 
+  - [1.application.1.md](./Backlog/1.application.1.md) 
+  - [2.backlog.md](./Backlog/2.backlog.md) 
+- **sous-tâche** 
+## Livrables 
+
+Introduction au Livrables 
+
+- /Backlog 
+  - Le backlog du lab 
+- /docs 
+  - Documentation 
 ## Références 
-- [Documentation de PowerShell](https://learn.microsoft.com/fr-fr/powershell/?view=powershell-7.4)
 
-test 1
+Introduction au Références 
+
+- [Autoformation Powershell](#) 
+
