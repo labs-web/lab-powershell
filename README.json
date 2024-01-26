@@ -1,0 +1,39 @@
+{
+    "Introduction":{
+        "Titre" :"Lab Powershell",
+        "Reference":"lab-powershell",
+        "Description" : "Une autoformation pratique sur PowerSehll "
+    },
+    "Backlog":{
+        "Titre" : "Backlog",
+        "Introduction":"Le backlog est une liste ordonées des tâches"
+    },
+    "Livrables" :
+    {
+        "Titre" : "Livrables",
+        "Introduction":"Introduction au Livrables",
+        "Livrables": [
+            {
+                "Titre":"/Backlog",
+                "Description":"Le backlog du lab"
+            },
+            {
+                "Titre":"/docs",
+                "Description":"Documentation"
+            }
+        ]
+    },   
+    "References" :
+    {
+        "Titre" : "Références",
+        "Introduction":"Introduction au Références",
+        "References": [
+            {
+                "Titre":"Autoformation Powershell",
+                "Lien":"#"
+            }
+           
+        ]
+    } 
+    
+}
