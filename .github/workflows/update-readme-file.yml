@@ -4,7 +4,7 @@ on:
       branches: [ "develop" ]
       paths:
         - backlog/**
-        - lab-web.json
+        - README.json
 jobs:
   update-readme-file-job:
     name: Mise à jour de fichier README.md depuis lab-web.json
