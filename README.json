@@ -11,7 +11,7 @@
     "Livrables" :
     {
         "Titre" : "Livrables",
-        "Introduction":"Introduction au Livrables",
+        "Introduction":"",
         "Livrables": [
             {
                 "Titre":"/Backlog",
