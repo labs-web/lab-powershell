@@ -20,6 +20,7 @@ Le backlog est une liste ordonées des tâches
 - **feature** 
   - [1.application.1.md](./Backlog/feature/1.application.1.md) 
   - [2.backlog.2.md](./Backlog/feature/2.backlog.2.md) 
+- **thème** 
 ## Livrables 
 
  
